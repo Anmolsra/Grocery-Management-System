@@ -18,15 +18,11 @@ A simple and efficient Grocery Management System built with HTML, CSS, and JavaS
 - **JavaScript**: Interactive features and functionality.
 
 ## Installation
+- **Clone the repository**: git clone https://github.com/yourusername/grocery-management-system.git
 
-1. Clone the repository:
+- **Navigate to the project directory**: cd grocery-management-system
 
-   ```bash
-   git clone https://github.com/yourusername/grocery-management-system.git
-
-**   ## Navigate to the project directory:
-cd grocery-management-system
-Usage
+- **Usage**:
 Open index.html in a web browser.
 Use the interface to manage inventory, track sales, and process orders.
 Contributing
@@ -35,12 +31,11 @@ Create a new branch (git checkout -b feature-branch).
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
-License
+-**License**:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+-**Acknowledgments**:
 Your Name for the development and maintenance of this project.
 Inspiration from various online tutorials and documentation.
-
 
 Feel free to adjust the placeholders (like URLs, names, and emails) to fit your specific project details.
